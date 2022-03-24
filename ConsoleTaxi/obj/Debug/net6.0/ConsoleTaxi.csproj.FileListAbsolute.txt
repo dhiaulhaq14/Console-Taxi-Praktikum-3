@@ -1,0 +1,15 @@
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\bin\Debug\net6.0\ConsoleTaxi.exe
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\bin\Debug\net6.0\ConsoleTaxi.deps.json
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\bin\Debug\net6.0\ConsoleTaxi.runtimeconfig.json
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\bin\Debug\net6.0\ConsoleTaxi.dll
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\bin\Debug\net6.0\ConsoleTaxi.pdb
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\ConsoleTaxi.csproj.AssemblyReference.cache
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\ConsoleTaxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\ConsoleTaxi.AssemblyInfoInputs.cache
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\ConsoleTaxi.AssemblyInfo.cs
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\ConsoleTaxi.csproj.CoreCompileInputs.cache
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\ConsoleTaxi.dll
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\refint\ConsoleTaxi.dll
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\ConsoleTaxi.pdb
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\ConsoleTaxi.genruntimeconfig.cache
+C:\Users\mochs\source\repos\ConsoleTaxi\ConsoleTaxi\obj\Debug\net6.0\ref\ConsoleTaxi.dll
